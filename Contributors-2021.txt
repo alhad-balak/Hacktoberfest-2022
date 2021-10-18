@@ -386,3 +386,13 @@ Twitter profile url:  https://twitter.com/AbdulSubhan60
 
 Country: India
 Bio: IT Student @ MJCET
+
+*Name: Abhinav Kumar Gupta
+*Github username: @alhad-balak
+How many pull requests have you done here: 1
+
+LinekdIn profile url: https://www.linkedin.com/in/abhinav-raj07/
+Twitter profile url: https://twitter.com/alhad_balak
+
+Country: India
+Bio: Student @ IIT (BHU), Varanasi. A Software Developer.
